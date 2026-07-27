@@ -114,7 +114,7 @@ My profile: https://leetcode.com/u/CodeEthical_Kiran/
 - Total Training Days: 16
 - Documentation Files: 100+
 - Python Programs: 150+
-- LeetCode Solutions: 30+
+- LeetCode Solutions: 100+
 - Database Projects: 4
 
 ## 🎯 Future Goals
